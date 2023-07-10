@@ -1,0 +1,16 @@
+Creo le tabelle clienti, fatture, prodotti, fornitori e clienti usando CREATE TABLE, e inserisco dentro ogni tabella i dati.
+
+
+CREATE TABLE clienti
+
+CREATE TABLE fatture
+
+CREATE TABLE prodotti
+
+CREATE TABLE fornitori
+
+CREATE TABLE clienti
+
+
+
+Uso INSERT INFO SELECT nome, cognome FROM clienti WHERE SELECT YEAR(dataNascita)=1982;
